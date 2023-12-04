@@ -6,9 +6,14 @@ Este script em Python automatiza o processo de envio de mensagens personalizadas
 
 ## Instruções de Uso
 ## Importando Bibliotecas
+
 Certifique-se de ter as bibliotecas necessárias instaladas executando:
 
-pip install openpyxl pyautogui
+pip install openpyxl
+
+pip install pyautogui
+
+pip install pillow
 
 ## Autenticação no WhatsApp
 Abra a interface web do WhatsApp visitando https://web.whatsapp.com/.
